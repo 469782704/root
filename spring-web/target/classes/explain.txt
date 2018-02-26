@@ -1,0 +1,2 @@
+1.generatorConfig.xml 是mybatis的插件 使用命令mybatis-generator:generate -e
+      进行数据库与javaBean的映射
